@@ -1,1 +1,1 @@
-include ':app', ':mylocation'
+include ':app', ':mylocation', ':mapmodule'
